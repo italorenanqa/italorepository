@@ -1,2 +1,0 @@
-# italorepository
-Meu repositório 
